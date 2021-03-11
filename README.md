@@ -1,8 +1,8 @@
-- 👋 Hola, Soy Camilo Cortes
+- 👋 Hola, soy Camilo Cortes
 - 👀 Estoy interesado en aprender nuevos lenguajes
 - 🌱 Ahora mismo estoy aprendiendo Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Me gustaría colaborar en proyectos en los que pueda aportar con lo poco que sé...
+
 
 <!---
 CamiloCortes202011908/CamiloCortes202011908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
