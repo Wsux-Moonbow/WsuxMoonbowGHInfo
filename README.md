@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CamiloCortes202011908
-- 👀 I’m interested in learn another lenguages
-- 🌱 I’m currently learning python
+- 👋 Hola, Soy Camilo Cortes
+- 👀 Estoy interesado en aprender nuevos lenguajes
+- 🌱 Ahora mismo estoy aprendiendo Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
