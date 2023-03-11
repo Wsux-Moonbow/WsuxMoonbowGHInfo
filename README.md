@@ -1,7 +1,7 @@
 - 👋 Hola, soy Camilo Cortes
 - 👀 Estoy interesado en aprender nuevos lenguajes
 - 🌱 Ahora mismo estoy aprendiendo Python, Java y C
-- 💞️ Me gustaría colaborar en proyectos que me gusten y que pueda aportar con lo poco que sé...
+- 💞️ Me gustaría colaborar en proyectos que me gusten y que pueda aportar con lo que sé...
 
 
 <!---
